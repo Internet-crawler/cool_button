@@ -14,7 +14,7 @@ body {
     border-color: solid black;
 }
 
-.img-monkey {
+.gif-minion {
     display: block;
     opacity: 0;
     margin-top: 20px;
@@ -31,4 +31,5 @@ body {
 }
 .btn-hold:active {
     border-color: rgb(100, 100, 100);
+
 }
