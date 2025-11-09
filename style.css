@@ -25,7 +25,7 @@ body {
     transition: opacity 0.5s;
 }
 
-.btn-hold:active + .img-monkey {
+.btn-hold:active + .gif-minion {
     opacity: 1;
     border-color: rgb(100, 100, 100);
 }
@@ -33,3 +33,4 @@ body {
     border-color: rgb(100, 100, 100);
 
 }
+
