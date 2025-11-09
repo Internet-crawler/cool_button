@@ -17,11 +17,6 @@ body {
 .gif-minion {
     display: block;
     opacity: 0;
-    margin-top: auto;
-    margin-left: auto;
-    margin-right: auto;
-    width: 25%;
-    height: 50%;
     transition: opacity 0.5s;
 }
 
@@ -33,5 +28,6 @@ body {
     border-color: rgb(100, 100, 100);
 
 }
+
 
 
